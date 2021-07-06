@@ -89,15 +89,3 @@ footer a{
 footer p{
     font-weight: 400;
 }
-.Subscriber-me{
-    display: flex;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-bottom: 10%;
-    box-shadow: 10px 10px 40px gray;
-}
-.Subscriber-me .Subscriber{
-    margin-left: 20px;
-    padding: 0 50px;
-    
-}
