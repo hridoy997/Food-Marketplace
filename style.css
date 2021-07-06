@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+body{
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    background: url(img/bg.jp);
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 30px;
+}
+span{
+    color: coral;
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.first-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.text{
+    padding: 100px 200px;
+}
+.link-buttom{
+    text-decoration: none;
+    color: wheat;
+    background: linear-gradient(to bottom left, #cc0000 0%, #ff6600 100%);
+    padding: 15px 30px;
+    border-radius: 20px;
+}
+.about
+{
+    background: url(img/bg-image-female.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    margin-bottom: 100px;
+}
+.about-text{
+    padding-top: 200px;
+    padding-left: 800px;
+}
+.about-text h1{
+    color: violet;
+    font-size: 80px;
+
+}
+.food-details{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.food-details h1{
+    color: coral;
+}
+.img{
+    display: flex;
+}
+.img img{
+    border-radius: 20px;
+}
+.image{
+    width: 22%;
+    margin-left: 4%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-bottom: 200px;
+}
+footer{
+    text-align: center;
+    color: wheat;
+    background: black;
+    padding: 50px 0;
+}
+footer h1{
+    color: thistle;
+}
+footer a{
+    text-decoration: none;
+}
+footer p{
+    font-weight: 400;
+}
+.Subscriber-me{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    box-shadow: 10px 10px 40px gray;
+}
+.Subscriber-me .Subscriber{
+    margin-left: 20px;
+    padding: 0 50px;
+    
+}
