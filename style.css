@@ -59,6 +59,7 @@ p{
 .food-details h1{
     color: coral;
 }
+
 .img{
     display: flex;
 }
@@ -74,10 +75,22 @@ p{
     box-shadow: 10px 10px 40px gray;
     margin-bottom: 200px;
 }
+.Subscriber-me{
+    display: flex;
+    margin: 80px;
+    box-shadow: 10px 10px 40px gray;
+}
+.Subscriber{
+    padding: 0 100px 0 150px;
+}
+.Subscriber h1{
+    text-align: center;
+}
 footer{
     text-align: center;
     color: wheat;
     background: black;
+    margin-top: 200px;
     padding: 50px 0;
 }
 footer h1{
